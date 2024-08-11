@@ -10,7 +10,7 @@
 hs_err_pid*
 replay_pid*
 
-App.java
+src/App.java
 ##############################
 ## Maven
 ##############################
